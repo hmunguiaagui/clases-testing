@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+a07e00d104a487015195fcb08c4d101b30ffb282 refs/heads/feature/exercise-00
+03a083ff7fa832618c23b207429f02c5c112f1f9 refs/heads/feature/exercise-06
+fe5e2bee2ec2ddf231d1d74c0e0a330710af8f09 refs/heads/feature/exercise-base
+0d9b3eeb412d3280cefa825eec4524b1d031f949 refs/heads/feature/solution-00
+97b4110c38eba0e77eb8460fb060b6d8776a27ba refs/heads/feature/solution-01
+e8b77b05a2523d44c0a7db1bd324a0a3760d5610 refs/heads/feature/solution-02
+f0b0ef72a0e767572158b3e4cb4282f9d5cd730d refs/heads/feature/solution-03
+a3bcce4a8565fc085642c71ba7b4ba9a5f9f73a4 refs/heads/feature/solution-04
+53d9f15542c2aca99d476e0ab6dcd1e7d5310d32 refs/heads/feature/solution-05
+45412d75b249c1481576add1a1f3c97bd0dd8365 refs/heads/feature/solution-06
+3f74bd2751cbe59e3dc25e20e0f1e61946298f71 refs/heads/feature/solution-base
+9860bf9ec5d29ddd3ed3136c17b5d3329582f6e6 refs/heads/main
